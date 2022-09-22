@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/LomTuna/Toms-Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/LomTuna/Toms-Team-Profile-Generator#readme",
+  "homepage": "https://github.com/LomTuna/Toms-Team-Profile-Generator",
   "keywords": [],
   "dependencies": {
     "inquirer": "^9.1.2"
